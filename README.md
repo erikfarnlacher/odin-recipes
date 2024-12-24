@@ -1,0 +1,1 @@
+I will be making a basic recipe website. I will use all the things I have learned so far with the Odin Project. This should include setting up my boilermaker, adding paragraphs & headings, addings links, and images. I will also bold or italicize certain words when needed.
